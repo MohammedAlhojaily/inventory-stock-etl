@@ -1,0 +1,7 @@
+product_id,warehouse_id,product_name,opening_stock,reorder_level
+P001,W01,Laptop,20,5
+P002,W01,Keyboard,50,10
+P003,W01,Mouse,40,10
+P004,W02,Monitor,15,5
+P005,W02,Headset,30,8
+
